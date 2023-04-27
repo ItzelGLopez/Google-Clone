@@ -19,5 +19,7 @@ El proyecto está enfocado en la construcción de la interfaz de Google, tomando
 ## Objetivo del proyecto
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3, así como identificar componentes base de un sitio web, para analizarlas y replicarlas.
 
+
 ## ¡Link al Demo!
 Visualiza mi proyecto terminado aquí: [Clonación de Google](https://itzelglopez.github.io/)
+![INTERFAZ](https://user-images.githubusercontent.com/131832847/234746938-ea28de87-418b-4a82-93a4-5aeeb20dc979.png)
