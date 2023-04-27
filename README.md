@@ -1,10 +1,10 @@
 # Clonación de la interfaz de Google
 ###### creado con HTML y CSS3 en el bootcamp de TecnolochicasPro
 ## ÍNDICE
-* [Intro]()
-* [¿Qué construí?]()
-* [Objetivos del proyecto]()
-* [Link del demo]()
+* [Intro](https://github.com/ItzelGLopez/ItzelGLopez.github.io/blob/main/README.md#intro)
+* [¿Qué construí?](https://github.com/ItzelGLopez/ItzelGLopez.github.io/blob/main/README.md#qu%C3%A9-contru%C3%AD)
+* [Objetivos del proyecto](https://github.com/ItzelGLopez/ItzelGLopez.github.io/blob/main/README.md#objetivo-del-proyecto)
+* [Link del demo](https://github.com/ItzelGLopez/ItzelGLopez.github.io/blob/main/README.md#link-al-demo)
 ***
 ## Intro
 HTML5 o HyperText Markup Lenguage, es el componente básico de la web y junto con CSS3, se crean páginas web que usamos todos los días en el navegador. Definimos el significado, la estructura y el estilo del contenido web a través de estas tecnologías. 
